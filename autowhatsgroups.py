@@ -9,7 +9,7 @@ driver.get("https://web.whatsapp.com/")
 input("Escaneie o QR Code e pressione ENTER...")
 
 # Procurar grupo pelo nome
-grupo = "GRUPO-1, GRUPO-2"
+grupo = "GRUPO-1, GRUPO-2, GRUPO-3"
 mensagem = "Olá pessoal, essa é uma mensagem automática e apenas um teste!"
 
 # Buscar caixa de pesquisa e digitar o nome do grupo
